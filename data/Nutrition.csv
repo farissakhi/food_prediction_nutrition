@@ -1,0 +1,16 @@
+id,food_name,calories,protein,fat,carbs
+1,ayam_goreng,260,23,15,6
+2,bakso,150,9,6,15
+3,bebek_betutu,275,20,21,2
+4,dendeng_batokok,290,27,19,3
+5,gudeg,149,3,7,20
+6,gulai_ikan,160,18,9,4
+7,gulai_tambusu,210,15,14,8
+8,nasi_goreng,163,4.3,5.5,25.4
+9,pempek,201,8,10,22
+10,rawon,150,12,9,6
+11,rendang,193,16,12,5
+12,sate,250,20,15,10
+13,soto,120,8,5,10
+14,telur_balado,155,9.5,11,5
+15,telur_dadar,200,13,15,2

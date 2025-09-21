@@ -1,0 +1,12 @@
+id,timestamp,label,confidence,grams,per_serving_calories,per_serving_protein,per_serving_fat,per_serving_carbs,pairing,timing,source
+d5193f1f-c937-4cd1-a036-0fdaddbb4d8f,2025-09-21 12:17:06,Rendang,0.9832,100.0,0.0,0.0,0.0,0.0,"['sayur hijau', 'buah segar', 'air putih']",Pagi atau snack sore — ringan,upload
+915f46c1-0576-410e-bf2b-3d665d22254a,2025-09-21 12:17:55,Rendang,0.9832,100.0,0.0,0.0,0.0,0.0,"['sayur hijau', 'buah segar', 'air putih']",Pagi atau snack sore — ringan,upload
+555a94a9-3e27-46bf-b213-69ee86316f8b,2025-09-21 12:18:18,Rendang,0.9832,100.0,1.0,0.0,0.0,0.0,"['sayur hijau', 'buah segar', 'air putih']",Pagi atau snack sore — ringan,upload
+82f9affd-bb23-43ee-bf25-182b978b0223,2025-09-21 12:19:02,Rendang,0.9832,100.0,100.0,100.0,0.0,0.0,"['sayur hijau', 'buah segar', 'air putih']",Siang/malam — cocok untuk pemulihan otot,upload
+adb71baf-27e9-4fad-9254-8cf329588dcb,2025-09-21 12:22:43,French Fries,0.5604,100.0,100.0,100.0,0.0,0.0,"['sayur hijau', 'buah segar', 'air putih']",Siang/malam — cocok untuk pemulihan otot,camera
+a3a02393-f001-4cc5-90a8-63b5977fbde8,2025-09-21 12:30:06,Rendang,0.7826,100.0,193.0,16.0,12.0,5.0,"['sayur hijau', 'buah segar', 'air putih']",Siang/malam — cocok untuk pemulihan otot,upload
+c24acd99-b859-414e-a14b-fac1fb54355d,2025-09-21 13:07:14,Soto,0.9819,100.0,120.0,8.0,5.0,10.0,"['sayur hijau', 'buah segar', 'air putih']",Pagi atau snack sore — ringan,upload
+ce707774-9598-486c-8140-7268e427c3b3,2025-09-21 13:17:20,Sate,0.6644,100.0,250.0,20.0,15.0,10.0,"['sayur hijau', 'buah segar', 'air putih']",Fleksibel; sesuaikan kebutuhan harian,camera
+a0eef8c1-f1cf-478d-a84f-a2eae4fcd81c,2025-09-21 13:18:23,Soto,0.8562,100.0,120.0,8.0,5.0,10.0,"['sayur hijau', 'buah segar', 'air putih']",Pagi atau snack sore — ringan,upload
+b07e2a61-0ec6-4025-9d71-aa06dbbc34bd,2025-09-21 13:20:27,Soto,0.9122,100.0,120.0,8.0,5.0,10.0,"['sayur hijau', 'buah segar', 'air putih']",Pagi atau snack sore — ringan,upload
+83adc8e6-521f-4788-8769-9c443158bb22,2025-09-21 13:24:45,Rawon,0.6337,100.0,150.0,12.0,9.0,6.0,"['sayur hijau', 'buah segar', 'air putih']",Pagi atau snack sore — ringan,upload
